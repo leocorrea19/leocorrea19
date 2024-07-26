@@ -1,6 +1,8 @@
 ## Hi there, I’m Leonel
 
 # Python | HTML | CSS | JavaScript 
+![716813](https://github.com/user-attachments/assets/bc0ed424-d280-4407-bf22-8485303dad40)
+
 <!--
 **leocorrea19/leocorrea19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
