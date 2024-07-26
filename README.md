@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I’m Leonel
 
+# Python https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | HTML | CSS | JavaScript 
 <!--
 **leocorrea19/leocorrea19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
