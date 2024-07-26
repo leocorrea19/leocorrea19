@@ -1,8 +1,6 @@
-## Hi there, I’m Leonel
+## Hi there, I’m Leonel👋
 
-# Python | HTML | CSS | JavaScript 
-![716813](https://github.com/user-attachments/assets/bc0ed424-d280-4407-bf22-8485303dad40)
-
+![banner-git](https://github.com/user-attachments/assets/d60fcb06-21c1-4c6d-bf04-c0fe09afaf42)
 <!--
 **leocorrea19/leocorrea19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
