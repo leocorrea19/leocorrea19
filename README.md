@@ -1,5 +1,6 @@
 ## Hi there, I’m Leonel👋
-![banner-git](https://github.com/user-attachments/assets/29d96842-c195-4923-81ff-f6df43481156) ![spiderman](https://github.com/user-attachments/assets/5254c72a-9051-4e3d-9dc6-5250ff3ce017)
+![banner-git](https://github.com/user-attachments/assets/29d96842-c195-4923-81ff-f6df43481156)![Cosmic-Neon-Spiderman-GIF](https://github.com/user-attachments/assets/ab0c8bb5-fd09-434c-b5cb-0273b9215c0e)
+
 
 
 <!--
