@@ -1,7 +1,8 @@
 ## Hi there, I’m Leonel👋
-![banner-git](https://github.com/user-attachments/assets/29d96842-c195-4923-81ff-f6df43481156)![Cosmic-Neon-Spiderman-GIF](https://github.com/user-attachments/assets/ab0c8bb5-fd09-434c-b5cb-0273b9215c0e)
+![banner-git](https://github.com/user-attachments/assets/29d96842-c195-4923-81ff-f6df43481156) 
 
 
+![3661_8e3d7](https://github.com/user-attachments/assets/da9a57be-cb6b-408c-af37-84238177bb82)
 
 <!--
 **leocorrea19/leocorrea19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
