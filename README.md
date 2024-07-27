@@ -1,6 +1,7 @@
 ## Hi there, I’m Leonel👋
+![banner-git](https://github.com/user-attachments/assets/29d96842-c195-4923-81ff-f6df43481156) ![spiderman](https://github.com/user-attachments/assets/5254c72a-9051-4e3d-9dc6-5250ff3ce017)
 
-![banner-git](https://github.com/user-attachments/assets/d60fcb06-21c1-4c6d-bf04-c0fe09afaf42)
+
 <!--
 **leocorrea19/leocorrea19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
