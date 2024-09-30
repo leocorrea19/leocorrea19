@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Leonel 👋<br><br>🔭 Actualmente estoy en búsqueda activa de nuevas oportunidades laborales en el ámbito tecnológico.<br><br>📚 Estoy cursando la Tecnicatura en Programación en la UTN y también realizando un curso de Desarrollo Web Full Stack a través de la Fundación Pescar en colaboración con Educación IT y JP Morgan. Además, estoy formándome en análisis de datos mediante un curso de Google en Coursera.<br><br>⚡ En mi tiempo libre disfruto de hacer deporte, compartir momentos con amigos y familia, y dedicarme a seguir aprendiendo y aplicando mis conocimientos en proyectos personales.</p>
+<p align="left">Soy Leonel 👋<br><br>🔭 Actualmente estoy en búsqueda activa de nuevas oportunidades laborales en el ámbito tecnológico.<br><br>📚 Estoy cursando la Tecnicatura en Programación en la UTN y también realizando un curso de Desarrollo Web Full Stack a través de la Fundación Pescar en colaboración con Educación IT y JP Morgan. Además, estoy formándome en análisis de datos mediante un curso de Google en Coursera.<br><br>⚡ En mi tiempo libre disfruto de hacer deporte, compartir momentos con amigos y familia, y dedicarme a seguir aprendiendo y aplicando mis conocimientos en proyectos personales.</p>
 
 ###
 
