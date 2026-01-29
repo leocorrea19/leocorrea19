@@ -25,7 +25,8 @@
 
 ###
 
-<img align="right" height="150" src="[https://camo.githubusercontent.com/b5914c584cdccb79fd063d8f3211b35ee3a70ded6d978de6d46b80004e20189f/68747470733a2f2f692e726564642e69742f6e3561736a38716134716363312e676966](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzNXVvM2JjMDQ2dzY4ZnBmdTV2dHE4dzRkcjY5NHcwNDFmcTUxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif)"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/86529636-1b60-42f1-b2e0-2b48a22f5505" />
+"  />
 
 ###
 
