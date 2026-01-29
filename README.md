@@ -25,8 +25,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/86529636-1b60-42f1-b2e0-2b48a22f5505" />
-"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhzNXVvM2JjMDQ2dzY4ZnBmdTV2dHE4dzRkcjY5NHcwNDFmcTUxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif" />
 
 ###
 
